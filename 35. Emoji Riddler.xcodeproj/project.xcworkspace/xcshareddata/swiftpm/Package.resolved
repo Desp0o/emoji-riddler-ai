@@ -1,0 +1,15 @@
+{
+  "originHash" : "ed8dfed665c4432ed5b5b115922de6cb47e2243172bc5f06efcbb8f05278383e",
+  "pins" : [
+    {
+      "identity" : "webservice",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Desp0o/webService.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "981b8ad9c5d48469ed8e67d90b5f5a7ce7346b1c"
+      }
+    }
+  ],
+  "version" : 3
+}
